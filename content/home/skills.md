@@ -31,7 +31,7 @@ weight = 30
   icon = "book"
   icon_pack = "fas"
   name = "Visualization"
-  description = "Test Text."
+  description = "Test Text. Content changed second time."
   
   
 [[feature]]
