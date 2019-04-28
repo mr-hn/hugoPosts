@@ -1,0 +1,30 @@
+# Theme metadata
+name = "custom_mr_hn"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+#primary = "#3f51b5"
+#primary_light = "#757de8"
+#primary_dark = "#002984"
+
+primary = "hsl(191, 66%, 22%)"
+primary_light = "hsl(191, 66%, 32%)"
+primary_dark = "hsl(191, 66%, 12%)"
+
+# Menu
+#menu_primary = "#3f51b5" # 500
+#menu_text = "#fff"
+#menu_text_active = "#8c9eff" # A100
+#menu_title = "#fff"
+
+menu_primary = "rgb(0, 0, 0)"
+menu_text = "rgba(255,255,255,0.6)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+#home_section_even = "rgb(247, 247, 247)"
+home_section_even = "rgb(255, 255, 255)"
