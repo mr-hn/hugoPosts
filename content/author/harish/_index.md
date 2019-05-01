@@ -22,13 +22,13 @@ role = "Aspiring Data Scientist"
 # email = ""
 
 # List (academic) interests or hobbies
-#interests = [
+# interests = [
 # "Data Science",
 # "Data Visualization",
 # "Applied Machine Learning",
 # "Statistics",
 # "Story Telling"
-#]
+# ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -41,7 +41,7 @@ role = "Aspiring Data Scientist"
  year = 2019
 
 [[education.courses]]
- course = "BTech in Instrumentation Engineering"
+ course = "BTech in Electronics & Instrumentation Engineering"
  institution = "Amrita University, Coimbatore"
  year = 2015
 
@@ -80,14 +80,13 @@ role = "Aspiring Data Scientist"
 #Link to a PDF of your resume/CV from the About widget.
 #To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[social]]
-# icon = "cv"
-# icon_pack = "ai"
-  icon = "file"
-  icon_pack = "far"
+  icon = "file-pdf"
+  icon_pack = "fas"
   link = "files/cv.pdf"
+  # link = "https://drive.google.com/file/d/0B1DlYfb4ZDyRMGNVNDlNOTRPTFk/view"
 
 +++
 
-Data is propelling innovation and competitiveness the way oil and assembly line did in the past. My aspiration is to leverage analytics and help transform business processes from being reactive to proactive. 
+Data is propelling innovation and competitiveness the way oil and assembly line did in the past. My aspiration is to leverage analytics to enable data-driven decision making in businesses. I am a proactive problem solver with extensive experience working on descriptive and predictive analytics to build strategies that maximize impact.
 
-I began my career at SAP, developing custom enterprise applications for customers across industries. I bring with me experience working across teams and time zones in a dynamic and fast-paced environment. I am currently pursuing my Masters in Business Analytics, training in the use of analytical frameworks and applied mathematics in businesses. 
+I began my career as an SAP consultant, developing enterprise applications for customers across industries and geographies. I bring with me experience working across teams and time zones in a dynamic and fast-paced environment. I am currently pursuing my Masters in Business Analytics, training in the use of analytical frameworks and applied mathematics to transform businesses from being reactive to proactive. 

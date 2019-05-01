@@ -6,7 +6,7 @@ title = "Association Rules - Cincinnati Zoo"
 date = 2019-06-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "A app based on Apriori that recommends customer purchases"
+summary = "An app based on Apriori that recommends customer purchases"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
