@@ -4,7 +4,7 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = true
+active = false
 
 title = "Skills"
 subtitle = ""
@@ -24,7 +24,7 @@ weight = 30
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Experienced in exploratory, supervised and unsupervised learning methods to extract knowledge from historical data. Worked extensively with linear, tree-based and neuralnet models."
+  description = "Extracting knowledge from historical data through exploratory, supervised and unsupervised learning. Experienced in linear, tree-based and neuralnet models."
   
   
 [[feature]]
@@ -32,7 +32,7 @@ weight = 30
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Visualization"
-  description = "Highly skilled at turning numbers into digestable graphical insights by following key design principles to make clear, clean, and concise charts in tableau, ggplot and plotly."
+  description = "Turning numbers into digestable graphical insights. Following key design principles to make clear, clean, concise, and captivating charts in tableau, ggplot and plotly."
 
   
 [[feature]]
@@ -46,14 +46,14 @@ weight = 30
   icon = "drafting-compass"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Proficient in exploring the statistical significance of identified trends through hypothesis testing and analysis of variance."
+  description = "Exploring the statistical significance of identified trends through hypothesis testing and analysis of variance. Assess correlations and associations."
   
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Expert in retrieving data efficiently through data modeling and stored procedures. Also worked with Hadoop and PySpark"
+  description = "Retrieving data efficiently through data modeling and stored procedures. Also worked with Hadoop and PySpark"
 
 
 [[feature]]

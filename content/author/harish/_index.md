@@ -87,6 +87,6 @@ role = "Aspiring Data Scientist"
 
 +++
 
-Data is propelling innovation and competitiveness the way oil and assembly line did in the past. My aspiration is to leverage analytics to enable data-driven decision making in businesses. I am a proactive problem solver with extensive experience working on descriptive and predictive analytics to build strategies that maximize impact.
+Data is propelling innovation and competitiveness the way oil and assembly line have done in the past. My aspiration is to leverage analytics to enable data-driven decision making in businesses. I am a proactive problem solver with extensive experience working on descriptive and predictive analytics to build strategies that maximize impact.
 
 I began my career as an SAP consultant, developing enterprise applications for customers across industries and geographies. I bring with me experience working across teams and time zones in a dynamic and fast-paced environment. I am currently pursuing my Masters in Business Analytics, training in the use of analytical frameworks and applied mathematics to transform businesses from being reactive to proactive. 
