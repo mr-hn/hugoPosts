@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Associate Development Consultant"
+  title = "Business Process Consultant"
   company = "SAP"
   company_url = "https://www.sap.com/"
   location = "Bangalore, India"
@@ -28,11 +28,14 @@ date_format = "January 2006"
   description = """
 Responsibilities included  
 
-* Analyzing cross-functional business processes and designing end-to-end enterprise applications  
-* Developing reports and dashboards to improve strategies and operations using ABAP(Advanced Business Application Programming) and SQL  
-* Preparing a trend-setting estimation matrix to evaluate effort and cost of landscape transformations  
-* Mentored junior consultants, conducting trainings and bringing them up to speed on organizational practices
-* Received Appreciate Awards for diligent efforts and commitment
+* Analyzed cross-functional business processes and designed end-to-end applications to improve strategies and operations  
+* Developed reports and dashboards using OpenSQL, ABAP (Advanced Business Applications Programming) and JavaScript,
+enabling descriptive analytics for customers across industries and geographies  
+* Engaged with global clients and coordinated across teams to deliver 6 multi-million dollar projects successfully  
+* Experienced in Retail, Finance, Sales and Distribution, Warehouse Management, and Pricing domains  
+* Prepared a trend-setting estimation matrix to evaluate effort and cost of landscape transformations. Led the team that prepared the analysis reports for over 25 customers  
+* Mentored fresh hires and conducted trainings. Received 2 Appreciate Awards for diligent effort and commitment  
+* US Work Experience - Leading cosmetic company in Los Angeles - 2018. Managed a team of 3 and engaged with onsite senior management for effective and successful closure of go-live phase
 
 """
 +++
