@@ -41,7 +41,7 @@ superuser = true
  year = 2019
 
 [[education.courses]]
- course = "BTech in Electronics & Instrumentation Engineering"
+ course = "B.Tech in Instrumentation Engineering"
  institution = "Amrita University, Coimbatore"
  year = 2015
 
@@ -87,6 +87,4 @@ superuser = true
 
 +++
 
-Data is propelling innovation and competitiveness the way oil and assembly line have done in the past. My aspiration is to leverage analytics to enable data-driven decision making in businesses. I am a proactive problem solver with extensive experience working on descriptive and predictive analytics to build strategies that maximize impact.
-
-I began my career as an SAP consultant, developing enterprise applications for customers across industries and geographies. I bring with me experience working across teams and time zones in a dynamic and fast-paced environment. I am currently pursuing my Masters in Business Analytics, training in the use of analytical frameworks and applied mathematics to transform businesses from being reactive to proactive. 
+Data Science professional currently working in Risk Management/Financial Services domain. Proactive problem solver with extensive experience working on descriptive and predictive analytics. Proven track record of extracting valuable insights from data and converting them into high-impact strategies. Motivated and hard-working professional who focuses on high-leverage activities that increase the capacity of the team. Experienced working in fast-paced environments, balancing offensive and defensive analytics strategies.
