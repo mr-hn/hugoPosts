@@ -42,9 +42,9 @@ date_format = "January 2006"
   location = "Greenville Area, SC"
   date_start = "2019-09-09"
   date_end = ""
-  description = """ Risk Analytics in Auto Finance
+  description = """ Risk Analytics in Auto Finance Industry
 
-* Identified opportunities and implemented loan pricing strategies that increased annual profit by $2.8M. Designed and owned A/B tests targeting high profitability application pools
+* Identified opportunities and implemented loan pricing strategies that increased annual profit by $2.8M. Designed and owned A/B tests targeting high profitability loan pools
 * Substantially increased penetration in new channel by introducing a segmented credit risk model. Maintained price elasticity, bringing in ${$}$ 10M in revenue and ${$}$ 1.4M profit 
 * Engaged regularly with executives and department heads to receive approval and buy-in for novel implementations
 * Developed predictive models to determine delinquency rate. Explored different approaches and improved MAE by 30%

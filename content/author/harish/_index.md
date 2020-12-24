@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-# role = "Aspiring Data Scientist"
+role = "Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -87,4 +87,4 @@ superuser = true
 
 +++
 
-Data Science professional currently working in Risk Management/Financial Services domain. Proactive problem solver with extensive experience working on descriptive and predictive analytics. Proven track record of extracting valuable insights from data and converting them into high-impact strategies. Motivated and hard-working professional who focuses on high-leverage activities that increase the capacity of the team. Experienced working in fast-paced environments, balancing offensive and defensive analytics strategies.
+Data Science professional currently working in Risk Management/Financial Services domain. Proactive problem solver with extensive experience working on descriptive and predictive analytics. Proven track record of extracting valuable insights from data and converting them into high-impact strategies. Motivated and hard-working professional who focuses on high-leverage activities that increase the capacity of the team. Strong expertise working in fast-paced environments, balancing defensive and offensive analytics strategies to make optimal recommendations.
