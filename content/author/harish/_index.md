@@ -54,7 +54,7 @@ role = "Data Scientist"
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://linkedin.com/in/harish-morekonda"
+  link = "https://linkedin.com/in/mr-hn"
 
 #[[social]]
 #  icon = "twitter"
