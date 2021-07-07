@@ -36,21 +36,31 @@ date_format = "January 2006"
 """
 
 [[experience]]
-  title = "Data Scientist - Senior"
+  title = "Senior Data Scientist"
   company = "American Credit Acceptance"
   company_url = "https://americancreditacceptance.com/about-us/"
   location = "Greenville Area, SC"
   date_start = "2019-09-09"
-  date_end = ""
+  date_end = "2021-07-02"
   description = """ Risk Analytics in Auto Finance Industry
 
 * Identified opportunities and implemented loan pricing strategies that increased annual profit by $2.8M. Designed and owned A/B tests targeting high profitability loan pools
-* Substantially increased penetration in new channel by introducing a segmented credit risk model. Maintained price elasticity, bringing in ${$}$ 10M in revenue and ${$}$ 1.4M profit 
+* Substantially increased penetration in a channel by introducing a segmented credit risk model. Maintained price elasticity, bringing in $10M in revenue
 * Engaged regularly with executives and department heads to receive approval and buy-in for novel implementations
 * Developed predictive models to determine delinquency rate. Explored different approaches and improved MAE by 30%
 * Solved additional business problems by incorporating influence variables to the model to conduct what-if analyses
-* Took proactive initiatives to improve the codebase that generates $1.4B annual revenue. Eliminated technical debt and modularized the code to support future growth. Reduced code length by 3X, slashing implementation times by 300+ hours
+* Took proactive initiatives to improve the codebase that generates $1.4B revenue. Eliminated technical debt and modularized the code to support future growth. Reduced code length by 3X, slashing implementation times by 300+ hours
 * Brought massive transparency improvements to black-box processes by developing tools that reduced analysis time by 80%
 * Started and lead weekly meetings with the team and conducted sessions on advanced Risk concepts. Coached junior analysts, clarifying the Whys behind Whats and ensured completion of team responsibilities
+"""
+
+[[experience]]
+  title = "Principal Data Analyst"
+  company = "Capital One"
+  company_url = "https://www.capitalone.com"
+  location = "Richmond, VA"
+  date_start = "2021-07-06"
+  date_end = ""
+  description = """ 
 """
 +++
